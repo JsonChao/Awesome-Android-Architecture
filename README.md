@@ -27,11 +27,14 @@ Android架构师成长之路
 
 - **《深入探索Android热修复技术原理》**
 - **《Android进阶解密》（已完成，待记录）**
+- **慕课网之《Android应用发展趋势必备武器 热修复与插件化》**
 
 ### [Android插件化]()
 
 - **《Android插件化开发指南》**
 - **《Android进阶解密》（已完成，待记录）**
+- **慕课网之《Android应用发展趋势必备武器 热修复与插件化》**
+
 
 ### [Android优秀第三方库源码解析系列](https://github.com/JsonChao/Awesome-Third-Library-Source-Analysis)
 
