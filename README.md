@@ -1,6 +1,11 @@
 # Awesome-Android-Architecture
 Android架构师成长之路
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Performance/master/screenshots/Android%E6%9E%B6%E6%9E%84%E5%B8%88%E6%88%90%E9%95%BF%E4%B9%8B%E8%B7%AF%20.png">
+</div>
+
+
 
 ## 目录
 
@@ -10,10 +15,18 @@ Android架构师成长之路
 - **《Android高效进阶-从数据到AI》**
 - **《重构》**
 
+
 ### Gradle自动化构建
 
 - **慕课网之Gradle3.0自动化项目构建技术精讲+实战**
 - **《实战Gradle》**
+
+
+### 编译插桩技术
+
+- **极客时间之Android开发高手课《关于编译，你需要了解什么？》**
+- **极客时间之Android开发高手课《编译插桩的三种方法：AspectJ、ASM、ReDex》**
+
 
 ### [Android架构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)
 
@@ -23,11 +36,13 @@ Android架构师成长之路
 - **极客时间之《许式伟的架构课》**
 - **高焕堂Android从程序员到架构师之路**
 
+
 ### [Android热修复]()
 
 - **《深入探索Android热修复技术原理》**
 - **《Android进阶解密》（已完成，待记录）**
 - **慕课网之《Android应用发展趋势必备武器 热修复与插件化》**
+
 
 ### [Android插件化]()
 
@@ -36,9 +51,11 @@ Android架构师成长之路
 - **慕课网之《Android应用发展趋势必备武器 热修复与插件化》**
 
 
+
 ### [Android优秀第三方库源码解析系列](https://github.com/JsonChao/Awesome-Third-Library-Source-Analysis)
 
 **Android优秀三方源码必知必会~（已完成）**
+
 
 ### [Android核心源码解析系列](https://jsonchao.github.io/categories/Android%E6%A0%B8%E5%BF%83%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)
 
