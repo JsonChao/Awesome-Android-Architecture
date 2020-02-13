@@ -18,6 +18,7 @@ Android架构师成长之路
 
 ### Gradle自动化构建
 
+- **《深入理解Android置Gradle》**
 - **慕课网之Gradle3.0自动化项目构建技术精讲+实战**
 - **《实战Gradle》**
 
@@ -62,6 +63,7 @@ Android架构师成长之路
 - **《Android进阶解密》（已完成，待记录）**
 - **《最强Android书》**
 - **《深入理解Android内核设计思想》(上, 下)**
+- **《Android内核剖析》**
 - **《Android系统源代码情景分析》**
 - **慕课网之剖析Framework面试 冲击Android高级职位**
 
