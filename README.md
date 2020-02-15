@@ -18,9 +18,10 @@ Android架构师成长之路
 
 ### Gradle自动化构建
 
-- **《深入理解Android置Gradle》**
+- **《深入理解Android之Gradle》**
 - **慕课网之Gradle3.0自动化项目构建技术精讲+实战**
 - **《实战Gradle》**
+- **Matrix、VirtualAPK、Nuwa等复杂Gradle插件源码解析**
 
 
 ### 编译插桩技术
