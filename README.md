@@ -16,18 +16,18 @@ Android架构师成长之路
 - **《重构》**
 
 
+### [编译插桩技术]()（进行中~）
+
+- **极客时间之Android开发高手课《关于编译，你需要了解什么？》**
+- **极客时间之Android开发高手课《编译插桩的三种方法：AspectJ、ASM、ReDex》**
+
+
 ### Gradle自动化构建
 
 - **《深入理解Android之Gradle》**
 - **慕课网之Gradle3.0自动化项目构建技术精讲+实战**
 - **《实战Gradle》**
 - **Matrix、VirtualAPK、Nuwa等复杂Gradle插件源码解析**
-
-
-### 编译插桩技术
-
-- **极客时间之Android开发高手课《关于编译，你需要了解什么？》**
-- **极客时间之Android开发高手课《编译插桩的三种方法：AspectJ、ASM、ReDex》**
 
 
 ### [Android架构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)
