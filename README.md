@@ -21,6 +21,7 @@ Android架构师成长之路
 - **《深入理解Android之AOP》**
 - **极客时间之Android开发高手课《关于编译，你需要了解什么？》**
 - **极客时间之Android开发高手课《编译插桩的三种方法：AspectJ、ASM、ReDex》**
+- **极客时间之Android开发高手课《练习Sample跑起来 | ASM插桩强化练习》**
 
 
 ### Gradle自动化构建
