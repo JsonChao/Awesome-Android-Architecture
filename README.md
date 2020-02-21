@@ -123,7 +123,7 @@ Android架构师成长之路
 
 > Matrix Gradle源码解析
 
-[Matrix Gradle](https://github.com/Tencent/matrix/tree/master/matrix/matrix-android/matrix-gradle-plugin)
+- [Matrix Gradle](https://github.com/Tencent/matrix/tree/master/matrix/matrix-android/matrix-gradle-plugin)
 
 > Nuwa Gradle源码解析 
 
