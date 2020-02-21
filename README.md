@@ -113,8 +113,6 @@ Android架构师成长之路
 - [连载 | 深入理解gradle框架之二：依赖实现分析](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247485061&idx=1&sn=7c935aecbb9b558e4d5d9dd2c3eb7f96&scene=21#wechat_redirect)
 
 
-> Matrix、Nuwa、RePlugin、VirtualAPK、Tinker等复杂Gradle插件源码解析 
-
 > ASM + Gradle Transfrom 实战 
 
 - [打通Android Gradle编译过程的任督二脉](https://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231835&idx=1&sn=c9973f4476fb98a3003ca86aeb3744eb)
@@ -127,24 +125,24 @@ Android架构师成长之路
 
 [Matrix Gradle](https://github.com/Tencent/matrix/tree/master/matrix/matrix-android/matrix-gradle-plugin)
 
-> Nuwa Gradle 
+> Nuwa Gradle源码解析 
 
 - [Nuwa Gradle](https://github.com/jasonross/NuwaGradle)
 
 
-> RePlugin Gradle 
+> RePlugin Gradle源码解析
 
 - [RePlugin Gradle](https://github.com/Qihoo360/RePlugin)
 - [Gradle插件在RePlugin中的应用](https://mp.weixin.qq.com/s?__biz=MzUxODQ3MTk5Mg==&mid=2247483817&idx=1&sn=a139707e3b29747b30258275d2580ee3&chksm=f98929fecefea0e8cab38aed50e91ac50eba7026fd0db058ee31197c44f0a50dae43956e32d4&scene=38#wechat_redirect)
 
 
-> Tinker Gradle 
+> Tinker Gradle源码解析
 
 - [Tinker Gradle](https://github.com/Tencent/tinker/tree/dev/tinker-build/tinker-patch-gradle-plugin)
 - [Android 热修复 Tinker Gradle Plugin解析](https://blog.csdn.net/lmj623565791/article/details/72667669)
 
 
-> VirtualAPK Gradle 
+> VirtualAPK Gradle源码解析 
 
 - [VirtualAPK Gradle](https://github.com/didi/VirtualAPK/tree/master/virtualapk-gradle-plugin)
 
