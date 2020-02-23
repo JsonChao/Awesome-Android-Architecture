@@ -25,7 +25,7 @@ Android架构师成长之路
 - [Android应用程序资源的编译和打包过程分析](https://blog.csdn.net/luoshengyang/article/details/8744683)
 
 
-> 深入探索编译插桩技术（二、AspectJ）
+> 深入探索编译插桩技术（二、AspectJ）（进行中~）
 
 - 深入理解Android之AOP
 - 极客时间之Android开发高手课《编译插桩的三种方法：AspectJ、ASM、ReDex》
