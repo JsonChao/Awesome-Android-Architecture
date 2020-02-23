@@ -18,36 +18,36 @@ Android架构师成长之路
 
 ### [编译插桩技术]()（进行中~）
 
-> 深入探索Android编译系统 
+> 深入探索编译插桩技术（一、编译基础）（已完成）
 
 - 极客时间之Android开发高手课《关于编译，你需要了解什么？》
 - 《深入理解Android内核设计思想》第20章 Android应用程序的编译和打包
 - [Android应用程序资源的编译和打包过程分析](https://blog.csdn.net/luoshengyang/article/details/8744683)
 
 
-> 深入探索编译插桩技术（一、AspectJ）
+> 深入探索编译插桩技术（二、AspectJ）
 
 - 深入理解Android之AOP
 - 极客时间之Android开发高手课《编译插桩的三种方法：AspectJ、ASM、ReDex》
 
 
-> 深入探索编译插桩技术（二、Class字节码）
+> 深入探索编译插桩技术（三、Class字节码）
 
 - 极客时间之Android开发高手课《编译插桩的三种方法：AspectJ、ASM、ReDex》
 
 
-> 深入探索编译插桩技术（三、ASM）
+> 深入探索编译插桩技术（四、ASM）
 
 - 极客时间之Android开发高手课《编译插桩的三种方法：AspectJ、ASM、ReDex》
 - 极客时间之Android开发高手课《练习Sample跑起来 | ASM插桩强化练习》
 
 
-> 深入探索编译插桩技术（四、Dex字节码）
+> 深入探索编译插桩技术（五、Dex字节码）
 
 - 极客时间之Android开发高手课《编译插桩的三种方法：AspectJ、ASM、ReDex》
 
 
-> 深入探索编译插桩技术（五、ReDex）
+> 深入探索编译插桩技术（六、ReDex）
 
 - 极客时间之Android开发高手课《编译插桩的三种方法：AspectJ、ASM、ReDex》
 
