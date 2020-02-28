@@ -127,7 +127,7 @@ Android架构师成长之路
 - [VirtualAPK Gradle](https://github.com/didi/VirtualAPK/tree/master/virtualapk-gradle-plugin)
 
 
-> 深入探索Gradle自动化构建技术（八、Gradle插件开发平台ByteX解密）
+> 深入探索Gradle自动化构建技术（七、Gradle插件开发平台ByteX解密）
 
 - [ByteX](https://github.com/bytedance/ByteX)
 
