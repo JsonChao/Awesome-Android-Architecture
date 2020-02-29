@@ -27,13 +27,22 @@ Android架构师成长之路
 
 > 深入探索编译插桩技术（二、AspectJ）（进行中~）
 
-- 深入理解Android之AOP
 - 极客时间之Android开发高手课《编译插桩的三种方法：AspectJ、ASM、ReDex》
+- 《AspectJ 程序设计指南》
+- [The AspectJ 5 Development Kit Developer's Notebook](https://www.eclipse.org/aspectj/doc/next/adk15notebook/index.html)
+- [深入理解Android之AOP](https://blog.csdn.net/Innost/article/details/49387395)
+- [AOP技术在客户端的应用与实践](https://mp.weixin.qq.com/s?__biz=MzUxODg0MzU2OQ==&mid=2247483887&idx=1&sn=d54e3f210a4f31f477dba06c3dcd352e&scene=21#wechat_redirect)
+- [AspectJX](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)
+- [利用AspectJ实现插桩的例子](https://github.com/AndroidAdvanceWithGeektime/Chapter27)
+- [360 的性能监控框架ArgusAPM中AspectJ的使用](https://github.com/Qihoo360/ArgusAPM/tree/master/argus-apm/argus-apm-aop/src/main/java/com/argusapm/android/aop)
 
 
 > 深入探索编译插桩技术（三、Class字节码）
 
 - 极客时间之Android开发高手课《编译插桩的三种方法：AspectJ、ASM、ReDex》
+- 《深入理解Android Java虚拟机ART》第2章 深入理解Class文件格式
+- 《揭秘Java虚拟机 JVM设计原理与实现》第3、4章 Class字节码实战
+- 《深入理解Java虚拟机 JVM高级特性与最佳实践》第6章 类文件结构
 
 
 > 深入探索编译插桩技术（四、ASM）
@@ -45,6 +54,9 @@ Android架构师成长之路
 > 深入探索编译插桩技术（五、Dex字节码）
 
 - 极客时间之Android开发高手课《编译插桩的三种方法：AspectJ、ASM、ReDex》
+- 《深入理解Android Java虚拟机ART》第3章 深入理解Dex文件格式
+- 《深入理解Android内核设计思想》第21.2节Android虚拟机核心文件格式—Dex字节码
+- 《深入解析Android虚拟机》第11章 Dex文件详解
 
 
 > 深入探索编译插桩技术（六、ReDex）
@@ -143,17 +155,18 @@ Android架构师成长之路
 
 ### [Android热修复]()
 
-- **《深入探索Android热修复技术原理》**
 - **《Android进阶解密》（已完成，待记录）**
 - **慕课网之《Android应用发展趋势必备武器 热修复与插件化》**
+- **网易云课程之《阿里云andfix热修复、sophix原理剖析》**
+- **《深入探索Android热修复技术原理》**
+- **极客时间之Android开发高手课《Native Hook技术 》**
 
 
 ### [Android插件化]()
 
-- **《Android插件化开发指南》**
 - **《Android进阶解密》（已完成，待记录）**
 - **慕课网之《Android应用发展趋势必备武器 热修复与插件化》**
-
+- **《Android插件化开发指南》**
 
 
 ### [Android优秀第三方库源码解析系列](https://github.com/JsonChao/Awesome-Third-Library-Source-Analysis)
