@@ -25,7 +25,7 @@ Android架构师成长之路
 - [Android应用程序资源的编译和打包过程分析](https://blog.csdn.net/luoshengyang/article/details/8744683)
 
 
-> 深入探索编译插桩技术（二、AspectJ）（进行中~）
+> 深入探索编译插桩技术（二、AspectJ）（已完成）
 
 - 极客时间之Android开发高手课《编译插桩的三种方法：AspectJ、ASM、ReDex》
 - 《AspectJ 程序设计指南》
@@ -37,8 +37,9 @@ Android架构师成长之路
 - [360 的性能监控框架ArgusAPM中AspectJ的使用](https://github.com/Qihoo360/ArgusAPM/tree/master/argus-apm/argus-apm-aop/src/main/java/com/argusapm/android/aop)
 
 
-> 深入探索编译插桩技术（三、Class字节码）
+> 深入探索编译插桩技术（三、Class字节码）（进行中~）
 
+- 极客时间之深入拆解Java虚拟机《Java字节码（基础篇）》
 - 极客时间之Android开发高手课《编译插桩的三种方法：AspectJ、ASM、ReDex》
 - 《深入理解Android Java虚拟机ART》第2章 深入理解Class文件格式
 - 《揭秘Java虚拟机 JVM设计原理与实现》第3、4章 Class字节码实战
@@ -128,18 +129,18 @@ Android架构师成长之路
 - [连载 | 深入理解gradle框架之二：依赖实现分析](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247485061&idx=1&sn=7c935aecbb9b558e4d5d9dd2c3eb7f96&scene=21#wechat_redirect)
 
 
-> 深入探索Gradle自动化构建技术（六、复杂自定义Gradle插件源码剖析）
+> 深入探索Gradle自动化构建技术（六、复杂自定义Gradle插件源码剖析之APM）
 
 - [ArgusAPM Gradle](https://github.com/Qihoo360/ArgusAPM)
 - [Matrix Gradle](https://github.com/Tencent/matrix/tree/master/matrix/matrix-android/matrix-gradle-plugin)
-- [Tinker Gradle](https://github.com/Tencent/tinker/tree/dev/tinker-build/tinker-patch-gradle-plugin)
-- [Android 热修复 Tinker Gradle Plugin解析](https://blog.csdn.net/lmj623565791/article/details/72667669)
-- [RePlugin Gradle](https://github.com/Qihoo360/RePlugin)
-- [Gradle插件在RePlugin中的应用](https://mp.weixin.qq.com/s?__biz=MzUxODQ3MTk5Mg==&mid=2247483817&idx=1&sn=a139707e3b29747b30258275d2580ee3&chksm=f98929fecefea0e8cab38aed50e91ac50eba7026fd0db058ee31197c44f0a50dae43956e32d4&scene=38#wechat_redirect)
+
+
+> 深入探索Gradle自动化构建技术（七、复杂自定义Gradle插件源码剖析之插件化）
+
 - [VirtualAPK Gradle](https://github.com/didi/VirtualAPK/tree/master/virtualapk-gradle-plugin)
 
 
-> 深入探索Gradle自动化构建技术（七、Gradle插件开发平台ByteX解密）
+> 深入探索Gradle自动化构建技术（八、Gradle插件开发平台ByteX解密）
 
 - [ByteX](https://github.com/bytedance/ByteX)
 
