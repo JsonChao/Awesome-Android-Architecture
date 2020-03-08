@@ -37,16 +37,15 @@ Android架构师成长之路
 - [360 的性能监控框架ArgusAPM中AspectJ的使用](https://github.com/Qihoo360/ArgusAPM/tree/master/argus-apm/argus-apm-aop/src/main/java/com/argusapm/android/aop)
 
 
-> 深入探索编译插桩技术（三、Class字节码）（进行中~）
+> 深入探索编译插桩技术（三、Class字节码）（已完成）
 
 - 极客时间之深入拆解Java虚拟机《Java字节码（基础篇）》
 - 极客时间之Android开发高手课《编译插桩的三种方法：AspectJ、ASM、ReDex》
 - 《深入理解Android Java虚拟机ART》第2章 深入理解Class文件格式
-- 《揭秘Java虚拟机 JVM设计原理与实现》第3、4章 Class字节码实战
 - 《深入理解Java虚拟机 JVM高级特性与最佳实践》第6章 类文件结构
 
 
-> 深入探索编译插桩技术（四、ASM）
+> 深入探索编译插桩技术（四、ASM）（进行中~）
 
 - 极客时间之Android开发高手课《编译插桩的三种方法：AspectJ、ASM、ReDex》
 - 极客时间之Android开发高手课《练习Sample跑起来 | ASM插桩强化练习》
