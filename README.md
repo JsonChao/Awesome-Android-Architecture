@@ -51,6 +51,9 @@ Android架构师成长之路
 
 - 极客时间之Android开发高手课《编译插桩的三种方法：AspectJ、ASM、ReDex》
 - 极客时间之Android开发高手课《练习Sample跑起来 | ASM插桩强化练习》
+- [Java 字节码 (Bytecode) 与 ASM 简单说明](http://blog.hakugyokurou.net/?p=409)
+- [字节码增强技术探索](https://tech.meituan.com/2019/09/05/java-bytecode-enhancement.html)
+- [字节码操纵技术探秘](https://www.infoq.cn/article/Living-Matrix-Bytecode-Manipulation)
 
 
 > 深入探索编译插桩技术（五、Dex字节码）
