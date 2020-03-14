@@ -47,7 +47,7 @@ Android架构师成长之路
 - 《深入理解Java虚拟机 JVM高级特性与最佳实践》第6章 类文件结构
 
 
-> 深入探索编译插桩技术（四、ASM）（进行中~）
+> 深入探索编译插桩技术（四、ASM）（已完成）
 
 - 极客时间之Android开发高手课《编译插桩的三种方法：AspectJ、ASM、ReDex》
 - 极客时间之Android开发高手课《练习Sample跑起来 | ASM插桩强化练习》
@@ -71,7 +71,7 @@ Android架构师成长之路
 
 ### Gradle自动化构建
 
-> 深入探索Gradle自动化构建技术（一、Gradle配置篇）
+> 深入探索Gradle自动化构建技术（一、Gradle配置篇）（进行中）
 
 - [Gradle配置最佳实践](https://juejin.im/post/582d606767f3560063320b21#heading-32)
 - [GRADLE构建最佳实践](http://www.figotan.org/2016/04/01/gradle-on-android-best-practise/)
