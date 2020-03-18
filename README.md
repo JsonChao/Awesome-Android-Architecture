@@ -77,9 +77,7 @@ Android架构师成长之路
 - [GRADLE构建最佳实践](http://www.figotan.org/2016/04/01/gradle-on-android-best-practise/)
 - [Gradle 提速：每天为你省下一杯喝咖啡的时间](https://juejin.im/post/5be105fde51d455bad089fed)
 - [[大餐]加快gradle构建速度](http://halohoop.com/2017/06/13/meals-speedup_gradle_build/)
-- [Android 必备而又容易忽视的知识 Gradle的高级用法](https://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650823843&idx=1&sn=b37cdf30f2e1938b0ac88cf4fc1eb331&chksm=80b7883db7c0012bfd66cefc3669f25d3ebda8b840b592d7c7d439d0e730061735ecdebf0de6&scene=38#wechat_redirect)
 - [Gradle模块化代码精炼：让你的gradle代码控制在100行以内](https://www.jianshu.com/p/8d52afc1057d)
-- [Gradle脚本基础全攻略](https://blog.csdn.net/yanbober/article/details/49314255)
 - [Gradle Android-build 常用命令参数及解释](https://www.jianshu.com/p/a03f4f6ae31d)
 
 
@@ -87,6 +85,7 @@ Android架构师成长之路
 
 - 《慕课网之Gradle3.0自动化项目构建技术精讲+实战》1 - 4章
 - [Gradle从入门到实战 - Groovy基础](https://blog.csdn.net/singwhatiwanna/article/details/76084580)
+- [Gradle脚本基础全攻略](https://blog.csdn.net/yanbober/article/details/49314255)
 - [全面理解Gradle - 执行时序](https://blog.csdn.net/singwhatiwanna/article/details/78797506)
 - [全面理解Gradle - 定义Task](https://blog.csdn.net/singwhatiwanna/article/details/78898113)
 - 《深入理解 Android 之 Gradle》
