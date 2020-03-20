@@ -147,38 +147,6 @@ Android架构师成长之路
 - [ByteX](https://github.com/bytedance/ByteX)
 
 
-### [Android架构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)
-
-- **《Android组件化架构》**
-
-- **动脑学院高级Android之移动架构模块**
-
-- **《从零开始学架构》**
-- **极客时间之《许式伟的架构课》**
-- **高焕堂Android从程序员到架构师之路**
-
-
-### [Android热修复]()
-
-- **《Android进阶解密》（已完成，待记录）**
-
-- **慕课网之《Android应用发展趋势必备武器 热修复与插件化》**
-
-- **网易云课程之《阿里云andfix热修复、sophix原理剖析》**
-
-- **《深入探索Android热修复技术原理》**
-
-- **极客时间之Android开发高手课《Native Hook技术 》**
-
-
-### [Android插件化]()
-
-- **《Android进阶解密》（已完成，待记录）**
-
-- **慕课网之《Android应用发展趋势必备武器 热修复与插件化》**
-
-- **《Android插件化开发指南》**
-
 
 ### [Android优秀第三方库源码解析系列](https://github.com/JsonChao/Awesome-Third-Library-Source-Analysis)
 
@@ -196,6 +164,27 @@ Android架构师成长之路
 - **《Android系统源代码情景分析》**
 
 - **慕课网之剖析Framework面试 冲击Android高级职位**
+
+
+### [Android插件化]()
+
+- **《Android进阶解密》（已完成，待记录）**
+
+- **慕课网之《Android应用发展趋势必备武器 热修复与插件化》**
+
+- **《Android插件化开发指南》**
+
+
+### [Android架构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)
+
+- **《Android组件化架构》**
+
+- **网易云课程之架构师专题**
+- **动脑学院高级Android之移动架构模块**
+
+- **《从零开始学架构》**
+- **极客时间之《许式伟的架构课》**
+- **高焕堂Android从程序员到架构师之路**
 
 
 ### Android虚拟机解析系列
