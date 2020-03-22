@@ -71,7 +71,7 @@ Android架构师成长之路
 
 ### Gradle自动化构建（进行中~）
 
-> 深入探索Gradle自动化构建技术（一、Gradle配置篇）（进行中~）
+> 深入探索Gradle自动化构建技术（一、Gradle配置篇）（已完成）
 
 - [Gradle配置最佳实践](https://juejin.im/post/582d606767f3560063320b21#heading-32)
 - [GRADLE构建最佳实践](http://www.figotan.org/2016/04/01/gradle-on-android-best-practise/)
@@ -81,7 +81,7 @@ Android架构师成长之路
 - [Gradle Android-build 常用命令参数及解释](https://www.jianshu.com/p/a03f4f6ae31d)
 
 
-> 深入探索Gradle自动化构建技术（二、Gradle筑基篇）
+> 深入探索Gradle自动化构建技术（二、Gradle筑基篇）（进行中~）
 
 - 《慕课网之Gradle3.0自动化项目构建技术精讲+实战》1 - 4章
 - [Gradle从入门到实战 - Groovy基础](https://blog.csdn.net/singwhatiwanna/article/details/76084580)
