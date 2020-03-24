@@ -84,11 +84,11 @@ Android架构师成长之路
 > 深入探索Gradle自动化构建技术（二、Gradle筑基篇）（进行中~）
 
 - 《慕课网之Gradle3.0自动化项目构建技术精讲+实战》1 - 4章
+- 《深入理解 Android 之 Gradle》
 - [Gradle从入门到实战 - Groovy基础](https://blog.csdn.net/singwhatiwanna/article/details/76084580)
 - [Gradle脚本基础全攻略](https://blog.csdn.net/yanbober/article/details/49314255)
 - [全面理解Gradle - 执行时序](https://blog.csdn.net/singwhatiwanna/article/details/78797506)
 - [全面理解Gradle - 定义Task](https://blog.csdn.net/singwhatiwanna/article/details/78898113)
-- 《深入理解 Android 之 Gradle》
 
 
 > 深入探索Gradle自动化构建技术（三、Gradle进阶篇）
