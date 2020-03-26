@@ -71,7 +71,7 @@ Android架构师成长之路
 
 ### Gradle自动化构建（进行中~）
 
-> 深入探索Gradle自动化构建技术（一、Gradle配置篇）（已完成）
+> 深入探索 Gradle 自动化构建技术（一、配置篇）（已完成）
 
 - [Gradle配置最佳实践](https://juejin.im/post/582d606767f3560063320b21#heading-32)
 - [GRADLE构建最佳实践](http://www.figotan.org/2016/04/01/gradle-on-android-best-practise/)
@@ -81,24 +81,27 @@ Android架构师成长之路
 - [Gradle Android-build 常用命令参数及解释](https://www.jianshu.com/p/a03f4f6ae31d)
 
 
-> 深入探索Gradle自动化构建技术（二、Gradle筑基篇）（进行中~）
+> 深入探索 Gradle 自动化构建技术（二、Groovy 筑基篇）（进行中~）
 
-- 《慕课网之Gradle3.0自动化项目构建技术精讲+实战》1 - 4章
 - 《深入理解 Android 之 Gradle》
 - [Gradle从入门到实战 - Groovy基础](https://blog.csdn.net/singwhatiwanna/article/details/76084580)
+- [Groovy脚本基础全攻略](https://blog.csdn.net/yanbober/article/details/49047515)
+
+- 《慕课网之Gradle3.0自动化项目构建技术精讲+实战》1 - 4章
+
+
+> 深入探索 Gradle 自动化构建技术（三、Gradle 解密）
+
 - [Gradle脚本基础全攻略](https://blog.csdn.net/yanbober/article/details/49314255)
 - [全面理解Gradle - 执行时序](https://blog.csdn.net/singwhatiwanna/article/details/78797506)
 - [全面理解Gradle - 定义Task](https://blog.csdn.net/singwhatiwanna/article/details/78898113)
-
-
-> 深入探索Gradle自动化构建技术（三、Gradle进阶篇）
-
-- 《慕课网之Gradle3.0自动化项目构建技术精讲+实战》5 - 8章
 - [掌控 Android Gradle](https://kymjs.com/code/2018/02/25/01/)
 - [Gradle基础 - 构建生命周期和Hook技术](https://www.jianshu.com/p/0acdb31eef2d)
 
+- 《慕课网之Gradle3.0自动化项目构建技术精讲+实战》5 - 8章
 
-> 深入探索Gradle自动化构建技术（四、自定义Gradle插件）
+
+> 深入探索 Gradle 自动化构建技术（四、自定义 Gradle 插件）
 
 - 《慕课网之Gradle3.0自动化项目构建技术精讲+实战》9 - 11章
 - [一篇文章带你了解Gradle插件的所有创建方式](https://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649492683&idx=1&sn=834c7dd084af2d446e84a2865a5c2b9c&chksm=8eec8734b99b0e221407fbf95004fd1a0abc5a2bb2a78a5a66edb1841fda6149874cbebc0295&scene=38#wechat_redirect)
@@ -118,7 +121,7 @@ Android架构师成长之路
 - 工具书：《实战Gradle》
 
 
-> 深入探索Gradle自动化构建技术（五、Gradle核心源码剖析）
+> 深入探索 Gradle 自动化构建技术（五、Gradle 核心源码剖析）
 
 - [Gradle工作原理全面了解](https://blog.csdn.net/xjz729827161/article/details/82872076)
 - [Android Gradle Plugin 源码阅读与编译](https://fucknmb.com/2017/06/01/Android-Gradle-Plugin%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E4%B8%8E%E7%BC%96%E8%AF%91/)
@@ -131,18 +134,18 @@ Android架构师成长之路
 - [连载 | 深入理解gradle框架之二：依赖实现分析](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247485061&idx=1&sn=7c935aecbb9b558e4d5d9dd2c3eb7f96&scene=21#wechat_redirect)
 
 
-> 深入探索Gradle自动化构建技术（六、复杂自定义Gradle插件源码剖析之APM）
+> 深入探索 Gradle 自动化构建技术（六、复杂自定义 Gradle 插件源码剖析之 APM）
 
 - [ArgusAPM Gradle](https://github.com/Qihoo360/ArgusAPM)
 - [Matrix Gradle](https://github.com/Tencent/matrix/tree/master/matrix/matrix-android/matrix-gradle-plugin)
 
 
-> 深入探索Gradle自动化构建技术（七、复杂自定义Gradle插件源码剖析之插件化）
+> 深入探索 Gradle 自动化构建技术（七、复杂自定义 Gradle 插件源码剖析之插件化）
 
 - [VirtualAPK Gradle](https://github.com/didi/VirtualAPK/tree/master/virtualapk-gradle-plugin)
 
 
-> 深入探索Gradle自动化构建技术（八、Gradle插件开发平台ByteX解密）
+> 深入探索 Gradle 自动化构建技术（八、Gradle 插件开发平台 ByteX 解密）
 
 - [ByteX](https://github.com/bytedance/ByteX)
 
