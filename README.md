@@ -87,7 +87,7 @@ Android架构师成长之路
 - [Gradle从入门到实战 - Groovy基础](https://blog.csdn.net/singwhatiwanna/article/details/76084580)
 - [Groovy脚本基础全攻略](https://blog.csdn.net/yanbober/article/details/49047515)
 
-- 《慕课网之Gradle3.0自动化项目构建技术精讲+实战》1 - 4章
+- 《慕课网之Gradle3.0自动化项目构建技术精讲+实战》1 - 5章
 
 
 > 深入探索 Gradle 自动化构建技术（三、Gradle 核心解密）（进行中~）
@@ -98,7 +98,7 @@ Android架构师成长之路
 - [掌控 Android Gradle](https://kymjs.com/code/2018/02/25/01/)
 - [Gradle基础 - 构建生命周期和Hook技术](https://www.jianshu.com/p/0acdb31eef2d)
 
-- 《慕课网之Gradle3.0自动化项目构建技术精讲+实战》5 - 8章
+- 《慕课网之Gradle3.0自动化项目构建技术精讲+实战》6 - 8章
 
 
 > 深入探索 Gradle 自动化构建技术（四、自定义 Gradle 插件）
