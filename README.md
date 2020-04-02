@@ -103,7 +103,6 @@ Android架构师成长之路
 
 > 深入探索 Gradle 自动化构建技术（四、自定义 Gradle 插件）
 
-- 《慕课网之Gradle3.0自动化项目构建技术精讲+实战》9 - 11章
 - [一篇文章带你了解Gradle插件的所有创建方式](https://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649492683&idx=1&sn=834c7dd084af2d446e84a2865a5c2b9c&chksm=8eec8734b99b0e221407fbf95004fd1a0abc5a2bb2a78a5a66edb1841fda6149874cbebc0295&scene=38#wechat_redirect)
 - [写给 Android 开发者的 Gradle 系列（三）撰写 plugin](https://juejin.im/post/5b02113a5188254289190671)
 - [Gradle Transform API 的基本使用](https://www.jianshu.com/p/031b62d02607)
@@ -117,6 +116,8 @@ Android架构师成长之路
 - [编写Gradle插件配合ASM框架实战](https://blog.csdn.net/Neacy_Zz/article/details/78546237)
 - [ASM+Gradle Transfrom API 实现编译期间代码的修改](https://www.jianshu.com/p/0a56e151e00b?utm_source=desktop&amp;utm_medium=timeline)
 - [img-optimizer-gradle-plugin](https://github.com/chenenyu/img-optimizer-gradle-plugin)
+
+- 《慕课网之Gradle3.0自动化项目构建技术精讲+实战》9 - 11章
 
 - 工具书：《实战Gradle》
 
