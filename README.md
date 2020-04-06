@@ -115,7 +115,7 @@ Android架构师成长之路
 - [打通Android Gradle编译过程的任督二脉](https://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231835&idx=1&sn=c9973f4476fb98a3003ca86aeb3744eb)
 - [编写Gradle插件配合ASM框架实战](https://blog.csdn.net/Neacy_Zz/article/details/78546237)
 - [ASM+Gradle Transfrom API 实现编译期间代码的修改](https://www.jianshu.com/p/0a56e151e00b?utm_source=desktop&amp;utm_medium=timeline)
-- [img-optimizer-gradle-plugin](https://github.com/chenenyu/img-optimizer-gradle-plugin)
+- [McImage](https://github.com/smallSohoSolo/McImage/blob/master/README-CN.md)
 
 - 《慕课网之Gradle3.0自动化项目构建技术精讲+实战》9 - 11章
 
