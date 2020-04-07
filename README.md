@@ -170,7 +170,7 @@ Android架构师成长之路
 - **慕课网之剖析Framework面试 冲击Android高级职位**
 
 
-### [Android插件化]()
+### Android插件化
 
 - **《Android进阶解密》（已完成，待记录）**
 
