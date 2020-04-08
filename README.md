@@ -124,7 +124,8 @@ Android架构师成长之路
 
 > 深入探索 Gradle 自动化构建技术（五、Gradle 核心源码剖析）
 
-- [Gradle工作原理全面了解](https://blog.csdn.net/xjz729827161/article/details/82872076)
+- [Gradle工作原理全面了解](https://blog.csdn.net/xjz729827161/article/details/82872076) 
+
 - [Android Gradle Plugin 源码阅读与编译](https://fucknmb.com/2017/06/01/Android-Gradle-Plugin%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E4%B8%8E%E7%BC%96%E8%AF%91/)
 - [【Android 修炼手册】Gradle 篇 -- Gradle 源码分析](https://www.jianshu.com/p/d340601da269)
 - [Android Gradle Plugin 源码解析（上）](https://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649492752&idx=1&sn=1d1ad65c63667d96b72452a492cbde58&chksm=8eec86efb99b0ff9378916d061f70d56bc1c27c795ef5c36cd5692886c3cbb1109636951a5c3&scene=38#wechat_redirect)
