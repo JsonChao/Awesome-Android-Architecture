@@ -109,7 +109,6 @@ Android架构师成长之路
 - [如何开发一款高性能的 gradle transform](https://mp.weixin.qq.com/s/2TTXt5virr2vMNZRlzIT3w)
 - [gradle Transform API 和 Annotation Processor各有什么使用场景？能否相互替换与补充](https://wanandroid.com/wenda/show/8602)
 - [gradle超详细解析](https://www.jianshu.com/p/822e44a5ea97)
-- [【Android 修炼手册】Gradle 篇 -- Android Gradle Plugin 插件主要流程](https://www.jianshu.com/p/63a43c09d1ca)
 
 
 - [打通Android Gradle编译过程的任督二脉](https://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231835&idx=1&sn=c9973f4476fb98a3003ca86aeb3744eb)
