@@ -105,9 +105,10 @@ Android架构师成长之路
 
 - [一篇文章带你了解Gradle插件的所有创建方式](https://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649492683&idx=1&sn=834c7dd084af2d446e84a2865a5c2b9c&chksm=8eec8734b99b0e221407fbf95004fd1a0abc5a2bb2a78a5a66edb1841fda6149874cbebc0295&scene=38#wechat_redirect)
 - [写给 Android 开发者的 Gradle 系列（三）撰写 plugin](https://juejin.im/post/5b02113a5188254289190671)
+
+
 - [Gradle Transform API 的基本使用](https://www.jianshu.com/p/031b62d02607)
 - [如何开发一款高性能的 gradle transform](https://mp.weixin.qq.com/s/2TTXt5virr2vMNZRlzIT3w)
-- [gradle Transform API 和 Annotation Processor各有什么使用场景？能否相互替换与补充](https://wanandroid.com/wenda/show/8602)
 - [gradle超详细解析](https://www.jianshu.com/p/822e44a5ea97)
 
 
