@@ -111,8 +111,7 @@ Android架构师成长之路
 - [gradle超详细解析](https://www.jianshu.com/p/822e44a5ea97)
 
 
-- [编写Gradle插件配合ASM框架实战](https://blog.csdn.net/Neacy_Zz/article/details/78546237)
-- [ASM+Gradle Transfrom API 实现编译期间代码的修改](https://www.jianshu.com/p/0a56e151e00b?utm_source=desktop&amp;utm_medium=timeline)
+- [编写Gradle插件配合ASM框架实战](https://www.jianshu.com/p/16ed4d233fd1)
 - [McImage](https://github.com/smallSohoSolo/McImage/blob/master/README-CN.md)
 
 - 《慕课网之Gradle3.0自动化项目构建技术精讲+实战》9 - 11章
