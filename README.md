@@ -136,7 +136,7 @@ Android架构师成长之路
 - [Android Gradle Plugin 源码解析（上）](https://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649492752&idx=1&sn=1d1ad65c63667d96b72452a492cbde58&chksm=8eec86efb99b0ff9378916d061f70d56bc1c27c795ef5c36cd5692886c3cbb1109636951a5c3&scene=38#wechat_redirect)
 - [Android Gradle Plugin 源码解析（下）](https://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649492778&idx=1&sn=bf18cd9b7e4fb5f08b1a698836807304&chksm=8eec86d5b99b0fc30d7a85f4b4d0ffe4bbc4d00b5b5e89f0ef005048a5ce4c030f1aad74f69f&scene=38#wechat_redirect)
 
-- [Gradle 庖丁解牛（构建源头源码浅析）](https://blog.csdn.net/yanbober/article/details/60584621)- 
+- [Gradle 庖丁解牛（构建源头源码浅析）](https://blog.csdn.net/yanbober/article/details/60584621)
 - [Gradle 庖丁解牛（构建生命周期核心委托对象创建源码浅析）](https://blog.csdn.net/yanbober/article/details/65635040)
 
 
