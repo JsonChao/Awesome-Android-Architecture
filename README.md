@@ -125,13 +125,16 @@ Android架构师成长之路
 > 深入探索 Gradle 自动化构建技术（五、Gradle 核心源码剖析）（进行中~）
 
 - [Gradle工作原理全面了解](https://blog.csdn.net/xjz729827161/article/details/82872076) 
-
 - [Android Gradle Plugin 源码阅读与编译](https://fucknmb.com/2017/06/01/Android-Gradle-Plugin%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E4%B8%8E%E7%BC%96%E8%AF%91/)
-- [【Android 修炼手册】Gradle 篇 -- Gradle 源码分析](https://www.jianshu.com/p/d340601da269)
+
+- [看完这一系列，彻底搞懂 Gradle](https://github.com/5A59/android-training/blob/master/gradle/gradle-summary.md)
+
 - [Android Gradle Plugin 源码解析（上）](https://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649492752&idx=1&sn=1d1ad65c63667d96b72452a492cbde58&chksm=8eec86efb99b0ff9378916d061f70d56bc1c27c795ef5c36cd5692886c3cbb1109636951a5c3&scene=38#wechat_redirect)
 - [Android Gradle Plugin 源码解析（下）](https://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649492778&idx=1&sn=bf18cd9b7e4fb5f08b1a698836807304&chksm=8eec86d5b99b0fc30d7a85f4b4d0ffe4bbc4d00b5b5e89f0ef005048a5ce4c030f1aad74f69f&scene=38#wechat_redirect)
+
 - [Gradle 庖丁解牛（构建源头源码浅析）](https://blog.csdn.net/yanbober/article/details/60584621)- 
 - [Gradle 庖丁解牛（构建生命周期核心委托对象创建源码浅析）](https://blog.csdn.net/yanbober/article/details/65635040)
+
 - [连载 | 深入理解Gradle框架之一：Plugin, Extension, buildSrc](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247485042&idx=1&sn=fe32711dbcb483f7a47dfa0e304087c4&scene=21#wechat_redirect)
 - [连载 | 深入理解gradle框架之二：依赖实现分析](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247485061&idx=1&sn=7c935aecbb9b558e4d5d9dd2c3eb7f96&scene=21#wechat_redirect)
 
