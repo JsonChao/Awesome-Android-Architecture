@@ -122,7 +122,7 @@ Android架构师成长之路
 - 工具书：《实战Gradle》
 
 
-> 深入探索 Gradle 自动化构建技术（五、Gradle 核心源码剖析）（进行中~）
+> 深入探索 Gradle 自动化构建技术（五、Gradle 核心源码剖析）（已完成）
 
 - [Gradle工作原理全面了解](https://blog.csdn.net/xjz729827161/article/details/82872076) 
 - [Android Gradle Plugin 源码阅读与编译](https://fucknmb.com/2017/06/01/Android-Gradle-Plugin%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E4%B8%8E%E7%BC%96%E8%AF%91/)
@@ -140,18 +140,17 @@ Android架构师成长之路
 - [Gradle 庖丁解牛（构建生命周期核心委托对象创建源码浅析）](https://blog.csdn.net/yanbober/article/details/65635040)
 
 
-> 深入探索 Gradle 自动化构建技术（六、复杂自定义 Gradle 插件源码剖析之 APM）
+> 深入探索 Gradle 自动化构建技术（六、复杂自定义 Gradle 插件源码剖析之 Matrix）
 
-- [ArgusAPM Gradle](https://github.com/Qihoo360/ArgusAPM)
 - [Matrix Gradle](https://github.com/Tencent/matrix/tree/master/matrix/matrix-android/matrix-gradle-plugin)
 
 
-> 深入探索 Gradle 自动化构建技术（七、复杂自定义 Gradle 插件源码剖析之插件化）
+> 深入探索 Gradle 自动化构建技术（七、复杂自定义 Gradle 插件源码剖析之插件化框架 VirtualAPK）
 
 - [VirtualAPK Gradle](https://github.com/didi/VirtualAPK/tree/master/virtualapk-gradle-plugin)
 
 
-> 深入探索 Gradle 自动化构建技术（八、Gradle 插件开发平台 ByteX 解密）
+> 深入探索 Gradle 自动化构建技术（八、Gradle 插件开发平台化框架 ByteX 解密）
 
 - [ByteX](https://github.com/bytedance/ByteX)
 
