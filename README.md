@@ -71,7 +71,7 @@ Android架构师成长之路
 - 极客时间之Android开发高手课《编译插桩的三种方法：AspectJ、ASM、ReDex》
 
 
-### Gradle自动化构建（进行中~）
+### Gradle自动化构建
 
 > [深入探索 Gradle 自动化构建技术（一、配置篇）](https://juejin.im/post/5e924273f265da47f079379c)（已完成）
 
