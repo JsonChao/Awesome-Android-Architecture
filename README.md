@@ -92,7 +92,7 @@ Android架构师成长之路
 - 《慕课网之Gradle3.0自动化项目构建技术精讲+实战》1 - 5章
 
 
-> 深入探索 Gradle 自动化构建技术（三、Gradle 核心解密）（已完成）
+> [深入探索 Gradle 自动化构建技术（三、Gradle 核心解密）](https://juejin.im/post/5e9c46c8518825737f1a7b4c)（已完成）
 
 - [Gradle脚本基础全攻略](https://blog.csdn.net/yanbober/article/details/49314255)
 - [全面理解Gradle - 执行时序](https://blog.csdn.net/singwhatiwanna/article/details/78797506)
@@ -103,7 +103,7 @@ Android架构师成长之路
 - 《慕课网之Gradle3.0自动化项目构建技术精讲+实战》6 - 8章
 
 
-> 深入探索 Gradle 自动化构建技术（四、自定义 Gradle 插件）（已完成）
+> 【深入探索 Gradle 自动化构建技术（四、自定义 Gradle 插件）](https://juejin.im/post/5ea012f8e51d4546d4398a99)（已完成）
 
 - [一篇文章带你了解Gradle插件的所有创建方式](https://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649492683&idx=1&sn=834c7dd084af2d446e84a2865a5c2b9c&chksm=8eec8734b99b0e221407fbf95004fd1a0abc5a2bb2a78a5a66edb1841fda6149874cbebc0295&scene=38#wechat_redirect)
 - [写给 Android 开发者的 Gradle 系列（三）撰写 plugin](https://juejin.im/post/5b02113a5188254289190671)
@@ -122,7 +122,7 @@ Android架构师成长之路
 - 工具书：《实战Gradle》
 
 
-> 深入探索 Gradle 自动化构建技术（五、Gradle 核心源码剖析）（已完成）
+> [深入探索 Gradle 自动化构建技术（五、Gradle 核心源码剖析）](https://juejin.im/post/5ea7792e5188256da0323444)（已完成）
 
 - [Gradle工作原理全面了解](https://blog.csdn.net/xjz729827161/article/details/82872076) 
 - [Android Gradle Plugin 源码阅读与编译](https://fucknmb.com/2017/06/01/Android-Gradle-Plugin%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E4%B8%8E%E7%BC%96%E8%AF%91/)
@@ -140,7 +140,7 @@ Android架构师成长之路
 - [Gradle 庖丁解牛（构建生命周期核心委托对象创建源码浅析）](https://blog.csdn.net/yanbober/article/details/65635040)
 
 
-> 深入探索 Gradle 自动化构建技术（六、复杂自定义 Gradle 插件源码剖析之 Matrix）
+> 深入探索 Gradle 自动化构建技术（六、复杂自定义 Gradle 插件源码剖析之 APM 框架 Matrix）
 
 - [Matrix Gradle](https://github.com/Tencent/matrix/tree/master/matrix/matrix-android/matrix-gradle-plugin)
 
