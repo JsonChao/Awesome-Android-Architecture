@@ -145,12 +145,17 @@ Android架构师成长之路
 - [Matrix Gradle](https://github.com/Tencent/matrix/tree/master/matrix/matrix-android/matrix-gradle-plugin)
 
 
+> 深入探索Gradle自动化构建技术（七、复杂自定义Gradle插件源码剖析之热修复框架 Tinker）
+
+- [tinker Gradle](https://github.com/Tencent/tinker/tree/dev/tinker-build/tinker-patch-gradle-plugin)
+
+
 > 深入探索 Gradle 自动化构建技术（七、复杂自定义 Gradle 插件源码剖析之插件化框架 VirtualAPK）
 
 - [VirtualAPK Gradle](https://github.com/didi/VirtualAPK/tree/master/virtualapk-gradle-plugin)
 
 
-> 深入探索 Gradle 自动化构建技术（八、Gradle 插件开发平台化框架 ByteX 解密）
+> 深入探索 Gradle 自动化构建技术（九、Gradle 插件开发平台化框架 ByteX 解密）
 
 - [ByteX](https://github.com/bytedance/ByteX)
 
