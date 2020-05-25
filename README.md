@@ -150,7 +150,7 @@ Android架构师成长之路
 - [tinker Gradle](https://github.com/Tencent/tinker/tree/dev/tinker-build/tinker-patch-gradle-plugin)
 
 
-> 深入探索 Gradle 自动化构建技术（七、复杂自定义 Gradle 插件源码剖析之插件化框架 VirtualAPK）
+> 深入探索 Gradle 自动化构建技术（八、复杂自定义 Gradle 插件源码剖析之插件化框架 VirtualAPK）
 
 - [VirtualAPK Gradle](https://github.com/didi/VirtualAPK/tree/master/virtualapk-gradle-plugin)
 
