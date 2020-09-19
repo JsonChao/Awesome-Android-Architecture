@@ -11,7 +11,7 @@ Android架构师成长之路
 
 ### [Android工程实践](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E9%87%8D%E6%9E%84.md)
 
-- **《Android群英传 神兵利器》 （已完成，待记录）**
+- **《Android群英传 神兵利器》 （已完成）**
 
 - **《重构》**
 
