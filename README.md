@@ -161,7 +161,7 @@ Android架构师成长之路
 
 
 
-### [Android优秀第三方库源码解析系列](https://github.com/JsonChao/Awesome-Third-Library-Source-Analysis)
+### [Android优秀第三方库源码解析系列](https://github.com/JsonChao/Awesome-Third-Library-Source-Analysis)（已完成）
 
 **Android优秀三方源码必知必会~（已完成）**
 
@@ -179,7 +179,7 @@ Android架构师成长之路
 - **慕课网之剖析Framework面试 冲击Android高级职位**
 
 
-### Android插件化
+### Android插件化（进行中~）
 
 - **《Android进阶解密》（已完成，待记录）**
 
@@ -188,7 +188,7 @@ Android架构师成长之路
 - **《Android插件化开发指南》**
 
 
-### [Android架构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)
+### [Android架构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80) （进行中~）
 
 - **《Android组件化架构》**
 
