@@ -176,7 +176,7 @@ Android架构师成长之路
 - 《Android内核剖析》
 - **《Android系统源代码情景分析》**
 
-- **慕课网之剖析Framework面试 冲击Android高级职位**
+- **慕课网之剖析Framework面试 冲击Android高级职位（已完成）**
 
 
 ### Android插件化（进行中~）
