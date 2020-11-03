@@ -169,14 +169,11 @@ Android架构师成长之路
 ### [Android核心源码解析系列](https://jsonchao.github.io/categories/Android%E6%A0%B8%E5%BF%83%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)（进行中~）
 
 - **《Android进阶解密》（已完成，待记录）**
-
-- 《最强Android书》
-
-- **《深入理解Android内核设计思想》(上, 下)**
-- 《Android内核剖析》
-- **《Android系统源代码情景分析》**
-
 - **慕课网之剖析Framework面试 冲击Android高级职位（已完成）**
+- **《深入理解Android内核设计思想》(上, 下)（进行中~）**
+- 《Android内核剖析》
+- 《Android系统源代码情景分析》
+
 
 
 ### Android插件化（进行中~）
