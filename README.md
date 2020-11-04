@@ -178,7 +178,7 @@ Android架构师成长之路
 
 ### Android插件化（进行中~）
 
-- **慕课网之《实战企业级项目 践行App重构之路》**
+- **慕课网之《实战企业级项目 践行App重构之路》**（进行中~）
 
 - **《Android进阶解密》（已完成，待记录）**
 
@@ -189,7 +189,7 @@ Android架构师成长之路
 
 ### [Android组件化](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80) （进行中~）
 
-- **慕课网之《实战企业级项目 践行App重构之路》**
+- **慕课网之《实战企业级项目 践行App重构之路》**（进行中~）
 
 - **《Android组件化架构》**
 
