@@ -175,6 +175,14 @@ Android架构师成长之路
 - 《Android系统源代码情景分析》
 
 
+### [Android组件化](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80) （进行中~）
+
+- **慕课网之《实战企业级项目 践行App重构之路》**（进行中~）
+
+- **《Android组件化架构》**
+
+- **网易云课程之架构师专题**
+
 
 ### Android插件化（进行中~）
 
@@ -185,24 +193,6 @@ Android架构师成长之路
 - **慕课网之《Android应用发展趋势必备武器 热修复与插件化》**
 
 - **《Android插件化开发指南》**
-
-
-### [Android组件化](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80) （进行中~）
-
-- **慕课网之《实战企业级项目 践行App重构之路》**（进行中~）
-
-- **《Android组件化架构》**
-
-- **网易云课程之架构师专题**
-
-
-### Android虚拟机解析系列
-
-- **《深入理解Android Java虚拟机ART》**
-
-- 《深入解析Android虚拟机》
-
-- 《垃圾回收算法手册 自动内存管理的艺术》
 
 
 
